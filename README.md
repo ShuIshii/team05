@@ -11,7 +11,7 @@ git pull
 
 ・作業が終わったら必ず以下を実行
 ```
-git add 作業したファイル名　（例：git add index.html top.css）
+git add 作業したファイルへのパス　（例：git add index.html css/top.css）
 git commit -m "日付 名前" (例：git commit -m "5/25 sato"）
 git push
 ```
