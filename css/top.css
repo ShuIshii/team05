@@ -3737,7 +3737,7 @@ br.sm320 {
 	width: 65%;
 	overflow: hidden;
 	background-color: #fff;
-	background-image: url(../../common/img/p-top/hero.jpg);
+	background-image: url(../img/team.jpg);
 	background-repeat: repeat-x;
 	background-position: 0 bottom;
 	background-size: 1045px 700px;
@@ -3771,12 +3771,12 @@ br.sm320 {
 	position: absolute;
 	top: 0;
 	left: 0;
-	background: url(../../common/img/p-top/tone.png) repeat-y left /contain;
+	background: url(../img/tone.png) repeat-y left /contain;
 	z-index: 1
 }
 @media screen and (max-width:800px) {
 	.p-top__main .p-top__main__screen figure::before {
-		background: url(../../common/img/p-top/tone-sp.png) repeat-x top /contain;
+		background: url(../img/tone-sp.png) repeat-x top /contain;
 		width: 100%;
 		height: 270px;
 		top: 0px
@@ -3784,7 +3784,7 @@ br.sm320 {
 }
 @media screen and (max-width:501px) {
 	.p-top__main .p-top__main__screen figure::before {
-		background: url(../../common/img/p-top/tone-sp.png) repeat-x center /contain;
+		background: url(../img/tone-sp.png) repeat-x center /contain;
 		width: 100%;
 		height: 120px;
 		top: 0px
@@ -4124,7 +4124,7 @@ br.sm320 {
 	display: flex;
 	height: 100%;
 	overflow: hidden;
-	background-image: url(../../common/img/p-top/loop.jpg);
+	background-image: url(../img/house.jpg);
 	background-repeat: repeat-x;
 	background-position: center;
 	background-size: 921px 900px;
